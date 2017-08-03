@@ -25,7 +25,6 @@
     "words"
   ],
   "license": "Fair",
-  "main": "./lib/brazilian-stop-words.js",
   "name": "brazilian-stop-words",
   "repository": {
     "type": "git",
