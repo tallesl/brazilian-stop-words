@@ -1,20 +1,9 @@
 {
   "author": "Talles L <talleslasmar@gmail.com>",
   "bugs": {
-    "url": "https://github.com/tallesl/brazilian-stop-words/issues"
+    "url": "https://github.com/tallesl/node-brazilian-stop-words/issues"
   },
   "description": "a set of Brazilian stop words",
-  "devDependencies": {
-    "coveralls": "^2.11.2",
-    "istanbul": "^0.3.13",
-    "mocha": "^2.2.1"
-  },
-  "directories": {
-    "asset": "./asset",
-    "lib": "./lib",
-    "test": "./test"
-  },
-  "homepage": "https://github.com/tallesl/brazilian-stop-words",
   "keywords": [
     "brasil",
     "brasileiras",
@@ -28,10 +17,7 @@
   "name": "brazilian-stop-words",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tallesl/brazilian-stop-words.git"
-  },
-  "scripts": {
-    "test": "mocha"
+    "url": "https://github.com/tallesl/node-brazilian-stop-words.git"
   },
   "version": "2.0.1"
 }
